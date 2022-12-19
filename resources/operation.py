@@ -22,6 +22,8 @@ class OperationMath(Resource):
             result = multiply(num1, num2)
         elif operType == 4:
             result = div(num1, num2)
+        elif operType == 5:
+            result = power(num1, num2)
         else:
              return {
                 'result':'invalid Operation'
