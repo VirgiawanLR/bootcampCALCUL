@@ -1,0 +1,1 @@
+ini adalah readme si awan, tapi dikerjain syamsul
